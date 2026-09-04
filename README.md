@@ -1,4 +1,4 @@
-# Repository 'monitoring-pollen-picsaintloup' associated with the manuscript "Spatial and temporal variation of pollen signature of grapevine and associated Mediterranean vegetation inferred by deep learning". Ecological Informatics (under review).
+# Scripts associated with the manuscript "Spatial and temporal variation of pollen signature of grapevine and associated Mediterranean vegetation inferred by deep learning". Ecological Informatics (under review).
 
 This repository contains the Python and R scripts used in the study: "Spatial and temporal variation of pollen signature of grapevine and associated Mediterranean vegetation inferred by deep learning". Ecological Informatics (under review).
 
